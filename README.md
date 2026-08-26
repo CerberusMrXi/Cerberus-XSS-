@@ -226,8 +226,9 @@ This project’s license should be documented in the repository’s [`LICENSE`](
 
 ## References
 
-[1]: https://docs.python.org/3/library/venv.html "Python venv documentation"
-[2]: https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop"
+https://docs.python.org/3/library/venv.html "Python venv documentation"
+
+https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop"
 
 <div align="center">
 
