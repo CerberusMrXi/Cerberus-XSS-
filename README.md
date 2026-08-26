@@ -33,7 +33,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip python3-venv -y
 
 # 3. Clone the Repository
-git clone https://github.com/your-username/cerberus_xss.git
+git clone https://github.com/CerberusMrXi/cerberus_xss.git
 cd cerberus_xss
 
 # 4. Set Up Virtual Environment
